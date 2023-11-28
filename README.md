@@ -10,7 +10,8 @@ Screenshots
 -----------
 
 ### [Emacs](https://www.gnu.org/software/emacs/)
-![Emacs theme](https://github.com/merrittlj/automata-theme/blob/84543c7c72e825c42eca221ac0fc493299d1963a/images/emacs.png)
+![Emacs theme picture 1](https://github.com/merrittlj/automata-theme/blob/84543c7c72e825c42eca221ac0fc493299d1963a/images/emacs.png)
+![Emacs theme picture 2](https://github.com/merrittlj/automata-theme/blob/036fc1bdc4557b7c846fa03aaf01353f5aa86a8d/images/emacs2.png)
 
 ### [st(terminal)](https://st.suckless.org/)
 ![st theme](https://github.com/merrittlj/automata-theme/blob/84543c7c72e825c42eca221ac0fc493299d1963a/images/terminal.png)
